@@ -43,7 +43,7 @@
 
     echo "<br>";
     echo $result;
-    
+
     ?>
 
 </body>
