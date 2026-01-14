@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="793c868d-3c29-4936-8a03-b23639801221" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../estructurascontrol/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../estructurascontrol/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="38DilUneq116dRVrBrwMQ1Tnu4L" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +31,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/var/www/html/calculadora",
+    "last_opened_file_path": "/var/www/html/arreglos",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -52,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1768340694110</updated>
       <workItem from="1768340695123" duration="2423000" />
+      <workItem from="1768411728000" duration="612000" />
+      <workItem from="1768427389740" duration="13000" />
     </task>
     <servers />
   </component>
